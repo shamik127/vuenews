@@ -1,6 +1,6 @@
 # vuenews
 
-> A Vue.js project
+> A Vue.js project. Fetches news data from different news APIs. Uses the vuex architecture.
 
 ## Build Setup
 
